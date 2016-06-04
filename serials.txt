@@ -1,4 +1,0 @@
-<
-title=Friends
-seasons=link/to/seasons
->
