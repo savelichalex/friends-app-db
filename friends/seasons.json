@@ -1,7 +1,7 @@
 [
   {
     "title": "First",
-    "chapters": "link/to/chapters"
+    "chapters": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/01/chapters.json"
   },
   {
     "title": "Second",
