@@ -1,22 +1,30 @@
 [
   {
-    "title": "The.One.with.the.Princess.Leia.Fantasy",
+    "title": "The One with the Princess Leia Fantasy",
     "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e01.srt"
   },
   {
-    "title": "The.One.Where.No.One_s.Ready",
+    "title": "The One Where No One's Ready",
     "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e02.srt"
   },
   {
-    "title": "The.One.with.the.Jam",
+    "title": "The One with the Jam",
     "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e03.srt"
   },
   {
-    "title": "The.One.with.the.Metaphorical.Tunnel",
+    "title": "The One with the Metaphorical Tunnel",
     "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e04.srt"
   },
   {
-    "title": "The.One.with.Frank.Jr",
+    "title": "The One with Frank Jr",
     "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e05.srt"
+  },
+  {
+    "title": "The One with the Flashback",
+    "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e06.srt"
+  },
+  {
+    "title": "The One with the Race Car Bed",
+    "srt": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/s03e07.srt"
   }
 ]
