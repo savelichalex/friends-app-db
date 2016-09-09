@@ -1,22 +1,22 @@
 [
   {
     "title": "The Pilot",
-    "srt": "/friends/01/s01e01.srt"
+    "path": "/friends/01/s01e01.srt"
   },
   {
     "title": "The One with the Sonogram at the End",
-    "srt": "/friends/01/s01e02.srt"
+    "path": "/friends/01/s01e02.srt"
   },
   {
     "title": "The One with the Thumb",
-    "srt": "/friends/01/s01e03.srt"
+    "path": "/friends/01/s01e03.srt"
   },
   {
     "title": "The One with George Stephanopoulos",
-    "srt": "/friends/01/s01e04.srt"
+    "path": "/friends/01/s01e04.srt"
   },
   {
     "title": "The One with the East German Laundry Detergent",
-    "srt": "/friends/01/s01e05.srt"
+    "path": "/friends/01/s01e05.srt"
   }
 ]
