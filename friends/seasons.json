@@ -1,14 +1,14 @@
 [
   {
     "title": "First",
-    "chapters": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/01/chapters.json"
+    "chapters": "/friends/01/chapters.json"
   },
   {
     "title": "Second",
-    "chapters": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/02/chapters.json"
+    "chapters": "/friends/02/chapters.json"
   },
   {
     "title": "Third",
-    "chapters": "https://raw.githubusercontent.com/savelichalex/friends-app-db/master/friends/03/chapters.json"
+    "chapters": "/friends/03/chapters.json"
   }
 ]
