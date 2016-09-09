@@ -1,14 +1,14 @@
 [
   {
     "title": "First",
-    "chapters": "/friends/01/chapters.json"
+    "path": "/friends/01/chapters.json"
   },
   {
     "title": "Second",
-    "chapters": "/friends/02/chapters.json"
+    "path": "/friends/02/chapters.json"
   },
   {
     "title": "Third",
-    "chapters": "/friends/03/chapters.json"
+    "path": "/friends/03/chapters.json"
   }
 ]
